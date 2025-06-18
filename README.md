@@ -70,6 +70,6 @@ Want to collaborate or hire me?
 
 📧 Email: suhagg72@gmil.com.com
 
-🌐 Portfolio: [your-portfolio-link.com](https://sahilkumar-portfolio.vercel.app/)
+🌐 Portfolio: [my-portfolio-link.com](https://sahilkumar-portfolio.vercel.app/)
 
 💼 LinkedIn: https://www.linkedin.com/in/sahilkumar111/

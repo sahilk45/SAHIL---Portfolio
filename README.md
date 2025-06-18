@@ -8,7 +8,7 @@ This project showcases my work, skills, and projects in a beautifully crafted an
 
 ## 🌐 Live Demo
 
-🔗 [View Portfolio]([https://your-portfolio-link.com](https://sahilkumar-portfolio.vercel.app/)) – hosted with ❤️
+🔗 [View Portfolio](https://sahilkumar-portfolio.vercel.app/)
 
 ---
 

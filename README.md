@@ -8,7 +8,7 @@ This project showcases my work, skills, and projects in a beautifully crafted an
 
 ## 🌐 Live Demo
 
-🔗 [View Portfolio](https://your-portfolio-link.com) – hosted with ❤️
+🔗 [View Portfolio]([https://your-portfolio-link.com](https://sahilkumar-portfolio.vercel.app/)) – hosted with ❤️
 
 ---
 
@@ -70,6 +70,6 @@ Want to collaborate or hire me?
 
 📧 Email: suhagg72@gmil.com.com
 
-🌐 Portfolio: your-portfolio-link.com
+🌐 Portfolio: [your-portfolio-link.com](https://sahilkumar-portfolio.vercel.app/)
 
 💼 LinkedIn: https://www.linkedin.com/in/sahilkumar111/

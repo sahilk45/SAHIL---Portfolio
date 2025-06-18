@@ -37,13 +37,21 @@ This project showcases my work, skills, and projects in a beautifully crafted an
 ## 📁 Folder Structure
 
 portfolio/
+
 │
+
 ├── public/ # Static assets
+
 ├── src/
+
 │ ├── components/ # Reusable components
+
 │ ├── pages/ # Main pages
+
 │ └── App.jsx # Entry point
+
 ├── tailwind.config.js
+
 └── package.json
 
 

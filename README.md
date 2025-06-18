@@ -12,11 +12,6 @@ This project showcases my work, skills, and projects in a beautifully crafted an
 
 ---
 
-## 📸 Preview
-
-![Portfolio Preview](./assets/preview.png)
-
----
 
 ## ✨ Features
 
@@ -68,8 +63,9 @@ npm install
 
 # Run locally
 npm run dev
+```
 
-📬 Contact
+## 📬 Contact
 Want to collaborate or hire me?
 
 📧 Email: suhagg72@gmil.com.com
